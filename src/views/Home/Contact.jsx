@@ -33,7 +33,8 @@ class Contact extends Component {
 								<h4 className={classes.cardTitle}>
 									Matriz
 									<br />
-									<small className={classes.smallTitle}>Rua Santos Fernandes de Sá, 1458</small>
+									<small className={classes.smallTitle}>Rua Santos Fernandes de Sá, 1458</small> <br />
+									<small className={classes.smallTitle}>(continuação da Rua Peçanha)</small>
 								</h4>
 								<CardBody>
 									<p>
